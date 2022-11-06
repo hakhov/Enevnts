@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Enevnt", "01_Enevnt\01_Enevnt.csproj", "{96D4C8C3-5F37-4BE0-93EE-FD9964FE8565}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Event", "02_Event\02_Event.csproj", "{712928A6-EE70-4EB9-9330-F4EF4673260D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Event", "03_Event\03_Event.csproj", "{6A037FEE-1B8C-4F48-B6FA-6B2A6074C393}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_Event", "04_Event\04_Event.csproj", "{D23AC526-2636-4B2F-BE66-66EEE64B6F10}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_EventWithAnonymousMethod", "05_EventWithAnonymousMethod\05_EventWithAnonymousMethod.csproj", "{B7511FD7-CC50-49BE-B987-3D7B02C1694F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_EventWhitoutEventHandler", "06_EventHandler\06_EventWhitoutEventHandler.csproj", "{E397D83F-EB91-41BA-B8BB-A7D5E8BD2E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_EventHandler", "07_EventHandler\07_EventHandler.csproj", "{8B13CBC5-BDFD-4465-894C-D0C3392A390B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D4C8C3-5F37-4BE0-93EE-FD9964FE8565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D4C8C3-5F37-4BE0-93EE-FD9964FE8565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D4C8C3-5F37-4BE0-93EE-FD9964FE8565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D4C8C3-5F37-4BE0-93EE-FD9964FE8565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{712928A6-EE70-4EB9-9330-F4EF4673260D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712928A6-EE70-4EB9-9330-F4EF4673260D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712928A6-EE70-4EB9-9330-F4EF4673260D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712928A6-EE70-4EB9-9330-F4EF4673260D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A037FEE-1B8C-4F48-B6FA-6B2A6074C393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A037FEE-1B8C-4F48-B6FA-6B2A6074C393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A037FEE-1B8C-4F48-B6FA-6B2A6074C393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A037FEE-1B8C-4F48-B6FA-6B2A6074C393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23AC526-2636-4B2F-BE66-66EEE64B6F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23AC526-2636-4B2F-BE66-66EEE64B6F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23AC526-2636-4B2F-BE66-66EEE64B6F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23AC526-2636-4B2F-BE66-66EEE64B6F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7511FD7-CC50-49BE-B987-3D7B02C1694F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7511FD7-CC50-49BE-B987-3D7B02C1694F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7511FD7-CC50-49BE-B987-3D7B02C1694F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7511FD7-CC50-49BE-B987-3D7B02C1694F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E397D83F-EB91-41BA-B8BB-A7D5E8BD2E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E397D83F-EB91-41BA-B8BB-A7D5E8BD2E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E397D83F-EB91-41BA-B8BB-A7D5E8BD2E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E397D83F-EB91-41BA-B8BB-A7D5E8BD2E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B13CBC5-BDFD-4465-894C-D0C3392A390B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B13CBC5-BDFD-4465-894C-D0C3392A390B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B13CBC5-BDFD-4465-894C-D0C3392A390B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B13CBC5-BDFD-4465-894C-D0C3392A390B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2852F257-AACF-4743-971F-46BE393A4329}
+	EndGlobalSection
+EndGlobal
